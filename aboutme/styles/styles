@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Satisfy|Shadows+Into+Light');
 
 body {
-  background-image: url("/Users/TrishA/Desktop/wdd130/aboutme/images/hawaiipic.jpg");
+  background-image: url("https://github.com/tjmaxxy1/WDD130/blob/main/aboutme/images/hawaiipic.jpg");
 }
 #mepage {
   max-width: 1000px;
