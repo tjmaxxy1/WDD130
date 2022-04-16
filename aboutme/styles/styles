@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Satisfy|Shadows+Into+Light');
+
+body {
+  background-image: url("/Users/TrishA/Desktop/wdd130/aboutme/images/hawaiipic.jpg");
+}
+#mepage {
+  max-width: 1000px;
+  margin: 0 auto;
+  background-color: #e0ebeb;
+  border-radius: 10px;
+}
+#mypic {
+  margin: 0 50px 10px 300px;
+  border-radius: 10px;
+  width: 35%;
+}
+h1, h2, h3, h4, h5, h6 {
+font-size: 2.75em;
+  color:  #3d5c5c;
+  text-align: center;
+  padding: 10px;
+}
+p {
+  font-family: 'Shadows Into Light', cursive;
+  padding: 15px;
+  color: #669999;
+  font-size: 1.5em;
+  line-height: 1.5em;
+}
+#sign {
+  font-family: 'Satisfy', cursive;
+  margin-top: 0;
+  text-align: center;
+  color:  #3d5c5c;
+}
+img {
+  max-width: 100%;
+}
+.expic {
+  width: 22%;
+  height: 150px;
+  padding: 12px;
+  border-radius: 10px;
+}
