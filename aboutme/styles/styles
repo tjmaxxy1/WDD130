@@ -37,7 +37,7 @@ img {
   max-width: 100%;
 }
 .expic {
-  width: 22%;
+  width: 19%;
   height: 150px;
   padding: 12px;
   border-radius: 10px;
